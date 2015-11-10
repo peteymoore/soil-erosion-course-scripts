@@ -7,4 +7,4 @@ Green_Ampt_1.m: A zero-D solver for infiltration as a function of time. Inputs a
 
 KW_overland_2.m: A 1D hillslope runoff solver using the kinematic wave approximation using the formulation of Huang and Li, 2013, Journal of Hydrology, v. 489:238-245. 
 
-1D_erosion.m: comig soon.
+1D_erosion.m: coming soon.
